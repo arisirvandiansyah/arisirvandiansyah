@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aris-irvandiansyah-457b6b1a4/">Aris Irvandiansyah</a> <img src="https://github.com/arisirvandiansyah/arisirvandiansyah/blob/master/assets/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/arisirvandiansyah">Aris Irvandiansyah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center">
   <a href="https://twitter.com/ma_xu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -6,7 +6,7 @@
   <a href="https://ma-xu.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h3 align="center">I'm a web developer, passionate about building responsive, interactive, and user-friendly web applications. I'm also interested in machine learning, artificial intelligence, and computer vision.</h3>
+<h3 align="center">I'm a web developer, and I'm passionate about building scalable and maintainable web applications. I'm also interested in artificial intelligence, machine learning, data mining, computer vision, and robotics. I'm always looking for new challenges and opportunities to collaborate and learn from others.</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arisirvandiansyah&show_icons=true&theme=algolia&count_private=true" />
