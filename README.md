@@ -1,35 +1,62 @@
-### Hi, I'm [Your Name](https://github.com/[Your Username]), aka _The Coder_ [![Followers](https://img.shields.io/github/followers/[Your Username]?style=social)](https://github.com/[Your Username]?tab=followers)
+<p align="center">
+  <img src="https://github.com/sindresorhus/sindresorhus/raw/master/media/header.svg" width="100%">
+</p>
 
-I'm a [Your Profession/Student/Developer] with a passion for coding, learning, and sharing knowledge. I love working on projects that make a positive impact on people's lives. I'm also a fan of [Your Interests], and I enjoy [Your Hobbies] in my free time.
+<p align="center">
+  <a href="https://github.com/sindresorhus">
+    <img src="https://img.shields.io/github/followers/sindresorhus?label=Follow&style=social">
+  </a>
+  <a href="https://twitter.com/sindresorhus">
+    <img src="https://img.shields.io/twitter/follow/sindresorhus?label=Follow&style=social">
+  </a>
+</p>
 
-I'm currently working on [Your Current Project(s)], and I'm excited about [Upcoming Projects]. If you want to collaborate or just chat, feel free to reach out to me on [Your Preferred Communication Platform(s)].
+<p align="center">
+  <a href="https://sindresorhus.com">
+    <img src="https://img.shields.io/badge/Website-sindresorhus.com-green?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://img.shields.io/badge/Awesome-List-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus/ama">
+    <img src="https://img.shields.io/badge/Ask%20Me%20Anything-ama.sindresorhus.com-orange?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sponsors/sindresorhus">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-green?style=for-the-badge">
+  </a>
+</p>
 
-#### My Projects
+<p align="center">
+  <img src="https://github.com/sindresorhus/sindresorhus/raw/master/media/rainbow.gif" width="50%">
+</p>
 
-- **[Project 1](https://github.com/[Your Username]/[Project 1])**: [Project 1 Description]
-- **[Project 2](https://github.com/[Your Username]/[Project 2])**: [Project 2 Description]
-- **[Project 3](https://github.com/[Your Username]/[Project 3])**: [Project 3 Description]
+<p align="center">
+  <a href="https://github.com/sindresorhus?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-54-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-2%2C000-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-2%2C000-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus?tab=stars">
+    <img src="https://img.shields.io/badge/Forks-3%2C000-blue?style=for-the-badge">
+  </a>
+</p>
 
-#### My Skills
+<p align="center">
+  <a href="https://github.com/sindresorhus/sindresorhus/raw/master/media/quotes.txt">
+    <img src="https://img.shields.io/badge/Quotes-Quotes-orange?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus/awesome-nodejs">
+    <img src="https://img.shields.io/badge/Awesome-Node.js-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sindresorhus/awesome-electron">
+    <img src="https://img.shields.io/badge/Awesome-Electron-blue?style=for-the-badge">
+  </a>
+</p>
 
-- **Programming languages:** [Programming languages you know]
-- **Development frameworks:** [Development frameworks you know]
-- **Databases:** [Databases you know]
-- **Operating Systems:** [Operating Systems you know]
-
-#### My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&hide=css,html,php,blade,makefile)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Your Username]&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-#### My Badges
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-
-#### Connect with me
-
-- [Twitter](https://twitter.com/[Your Twitter Handle])
-- [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile])
-- [Website](https://[Your Website URL])
+<p align="center">
+  <img src="https://github.com/sindresorhus/sindresorhus/raw/master/media/footer.svg" width="100%">
+</p>
