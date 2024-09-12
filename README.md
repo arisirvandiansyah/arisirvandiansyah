@@ -1,13 +1,35 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/tfeldmann">Thomas</a> <img src="https://raw.githubusercontent.com/tfeldmann/tfeldmann/master/wave.gif" width="30px"></h1>
+### Hi, I'm [Your Name](https://github.com/[Your Username]), aka _The Coder_ [![Followers](https://img.shields.io/github/followers/[Your Username]?style=social)](https://github.com/[Your Username]?tab=followers)
 
-<p align="center">
-  <a href="https://github.com/tfeldmann">
-    <img src="https://github-readme-stats.vercel.app/api?username=arisirvandiansyah&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  </a>
-</p>
+I'm a [Your Profession/Student/Developer] with a passion for coding, learning, and sharing knowledge. I love working on projects that make a positive impact on people's lives. I'm also a fan of [Your Interests], and I enjoy [Your Hobbies] in my free time.
 
-<p align="center">
-  <a href="https://github.com/tfeldmann">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arisirvandiansyah&theme=dark&hide_border=true" />
-  </a>
-</p>
+I'm currently working on [Your Current Project(s)], and I'm excited about [Upcoming Projects]. If you want to collaborate or just chat, feel free to reach out to me on [Your Preferred Communication Platform(s)].
+
+#### My Projects
+
+- **[Project 1](https://github.com/[Your Username]/[Project 1])**: [Project 1 Description]
+- **[Project 2](https://github.com/[Your Username]/[Project 2])**: [Project 2 Description]
+- **[Project 3](https://github.com/[Your Username]/[Project 3])**: [Project 3 Description]
+
+#### My Skills
+
+- **Programming languages:** [Programming languages you know]
+- **Development frameworks:** [Development frameworks you know]
+- **Databases:** [Databases you know]
+- **Operating Systems:** [Operating Systems you know]
+
+#### My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&hide=css,html,php,blade,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Your Username]&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+#### My Badges
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+#### Connect with me
+
+- [Twitter](https://twitter.com/[Your Twitter Handle])
+- [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile])
+- [Website](https://[Your Website URL])
