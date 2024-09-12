@@ -1,62 +1,17 @@
 <p align="center">
-  <img src="https://github.com/sindresorhus/sindresorhus/raw/master/media/header.svg" width="100%">
+  <a href="https://github.com/ryo-ma"><img src="https://github.com/ryo-ma/github-profile-trophy/blob/master/graph/34393356/34393356.svg?sanitize=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus">
-    <img src="https://img.shields.io/github/followers/sindresorhus?label=Follow&style=social">
-  </a>
-  <a href="https://twitter.com/sindresorhus">
-    <img src="https://img.shields.io/twitter/follow/sindresorhus?label=Follow&style=social">
-  </a>
+  <a href="https://twitter.com/ma_xu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ma-xu-457b6b1a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ma-xu.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://sindresorhus.com">
-    <img src="https://img.shields.io/badge/Website-sindresorhus.com-green?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://img.shields.io/badge/Awesome-List-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus/ama">
-    <img src="https://img.shields.io/badge/Ask%20Me%20Anything-ama.sindresorhus.com-orange?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sponsors/sindresorhus">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-green?style=for-the-badge">
-  </a>
-</p>
+<h3 align="center">Hello there! I'm Ma Xu (aka <a href="https://github.com/ma-xu">@ma-xu</a>), a passionate software engineer and researcher. I'm currently working as a senior software engineer at <a href="https://www.linkedin.com/company/tencent">Tencent</a>, and pursuing my Ph.D. in computer science at <a href="https://www.cs.umd.edu">University of Maryland</a>. I'm also a <a href="https://www.acm.org">ACM</a> and <a href="https://www.ieee.org">IEEE</a> member. I'm interested in artificial intelligence, machine learning, data mining, computer vision, and robotics. I'm also passionate about programming, computer graphics, and game development. I'm always looking for new challenges and opportunities to collaborate and learn from others.</h3>
 
 <p align="center">
-  <img src="https://github.com/sindresorhus/sindresorhus/raw/master/media/rainbow.gif" width="50%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/sindresorhus?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-54-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-2%2C000-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-2%2C000-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus?tab=stars">
-    <img src="https://img.shields.io/badge/Forks-3%2C000-blue?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sindresorhus/sindresorhus/raw/master/media/quotes.txt">
-    <img src="https://img.shields.io/badge/Quotes-Quotes-orange?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus/awesome-nodejs">
-    <img src="https://img.shields.io/badge/Awesome-Node.js-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/sindresorhus/awesome-electron">
-    <img src="https://img.shields.io/badge/Awesome-Electron-blue?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/sindresorhus/sindresorhus/raw/master/media/footer.svg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-xu&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-xu&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-xu&layout=compact&theme=algolia&hide=html,css,scss,cmake,makefile" />
 </p>
