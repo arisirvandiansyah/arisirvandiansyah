@@ -9,6 +9,6 @@
 <h3 align="center">I'm a passionate web developer with a strong interest in front-end development, and I'm always looking for new challenges and opportunities to collaborate and learn from others.</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arisirvandiansyah&show_icons=true&theme=dark&hide=stars,issues,prs,contribs" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=arisirvandiansyah&show_icons=true&theme=dark&hide=stars,issues,prs,contribs" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisirvandiansyah&layout=compact&theme=dark" />
 </p>
