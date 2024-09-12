@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/tfeldmann">
-    <img src="https://github-readme-stats.vercel.app/api?username=tfeldmann&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arisirvandiansyah&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tfeldmann">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tfeldmann&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arisirvandiansyah&theme=dark&hide_border=true" />
   </a>
 </p>
