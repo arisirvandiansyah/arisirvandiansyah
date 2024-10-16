@@ -13,17 +13,22 @@
 📊 Stats
 
 <p align="center">
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arisirvandiansyah&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisirvandiansyah&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arisirvandiansyah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats" />
+  
 </p>
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisirvandiansyah&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arisirvandiansyah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisirvandiansyah&theme=tokyonight" />
+  
+</p>
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arisirvandiansyah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats" />
+  
+</p>
 
 <h3 align="center">
   
