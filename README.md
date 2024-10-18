@@ -20,7 +20,7 @@
 
 <p align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisirvandiansyah&theme=ambient_gradient" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisirvandiansyah&theme=holi" />
   
 </p>
 
