@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I'm a Web Development Enthusiast who likes to play around with code and stuff.
-- 🌱 I’m currently learning how to code properly
+- 🌱 I’m currently learning how to code properly 
 ---
 
 📊 Stats
